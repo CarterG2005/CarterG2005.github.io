@@ -1,10 +1,10 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
+# Matrixify
 - project: Matrixify.c
   duration: October 2024 
-  # url: "#"
+  # url: "https://github.com/CarterG2005/matrixify.c"
   description: This C program performs matrix operations, including creation, addition, diagonal sum computation, and memory usage reporting, using dynamically allocated memory.
 
 # Springfield Community Outreach Group
