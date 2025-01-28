@@ -4,11 +4,11 @@
 # Matrixify
 - project: Matrixify.c
   duration: October 2024 
-  # url: "https://github.com/CarterG2005/matrixify.c"
+  url: "https://github.com/CarterG2005/matrixify.c"
   description: This C program performs matrix operations, including creation, addition, diagonal sum computation, and memory usage reporting, using dynamically allocated memory.
 
 # Calculate Distance
 - project: Calculate Distance
   duration: October 2023
-  # url: "https://github.com/CarterG2005/calculate-distance"
+  url: "https://github.com/CarterG2005/calculate-distance"
   description: This Java Program calculates the distance between two cities. It accepts user input for the city names and coordinates. The city names are stored in one-dimensional arrays, and the coordinates are store into two-dimensional arrays. The arrays are passed into the calcDistance function, which calculated the distance between the cities.
