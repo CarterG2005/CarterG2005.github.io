@@ -23,7 +23,7 @@ resume_contact_address:         "Longwood, FL, 32750"
 resume_header_contact_info:     "Longwood, FL • 407-728-1913 • cgerlach339@gmail.com"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p>I am a junior at the University of Central Florida, working toward a Bachelor of Science in Information Technology, with an expected graduation in Fall 2026. After completing my undergraduate degree, I plan to pursue a Master of Science in Cybersecurity at UCF. Before starting college, I achieved the milestone of graduating high school two years early.</p>"
+resume_header_intro: "<p>Motivated IT student with strong skills in math, problem-solving, and time management, seeking hands-on experience in Information Systems Technology and Cybersecurity to further develop my expertise.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -36,7 +36,7 @@ resume_looking_for_work:        "yes"
 resume_section_experience:      true
 resume_section_education:       true
 resume_section_projects:        true
-resume_section_skills:          true
+resume_section_certifications/skills:          true
 resume_section_recognition:     false
 resume_section_links:           true
 resume_section_associations:    true
